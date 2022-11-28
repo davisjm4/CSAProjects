@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GetOrder
+comment1.params=
+comment1.target=java.util.ArrayList\ getOrders()
+comment2.params=
+comment2.target=java.lang.String\ getOrder()
+comment3.params=
+comment3.target=boolean\ clearOrders()
+comment4.params=wholeOrder
+comment4.target=boolean\ addOrder(java.util.ArrayList)
+comment5.params=file
+comment5.target=boolean\ readOrder(java.io.File)
+numComments=6

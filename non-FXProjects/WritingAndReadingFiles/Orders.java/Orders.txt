@@ -1,0 +1,2 @@
+Order total: 5Burger,5, Order total: 5Fries,3, Order total: 5Soda,2, 
+Order total: 10
